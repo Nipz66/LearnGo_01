@@ -1,8 +1,20 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
+
+const s string = "Constance"
 
 func main() {
+
+	fmt.Println(s)
+
+	const n = 5000
+
+	const d = 300000 / n
+
+	fmt.Println(d)
 
 	//var use create one or more variables
 
@@ -22,9 +34,7 @@ func main() {
 	// The `:=` syntax is shorthand for declaring and
 	// initializing a variable
 
-	n := "Apple "
-	fmt.Println(n)
-
-	
+	// n := "Apple "
+	// fmt.Println(n)
 
 }

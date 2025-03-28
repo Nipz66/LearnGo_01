@@ -5,7 +5,7 @@ package main
 
 import "fmt"
 
-func practice03() {
+func main() {
 
 	var a = "Nipun"
 	fmt.Println(a)

@@ -15,5 +15,6 @@ func practice04() {
 	fmt.Println(numbers) // Output: [10 20 30]
 
 	fmt.Println("line 1")
+	fmt.Println("line 2")
 
 }

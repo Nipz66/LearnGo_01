@@ -13,4 +13,7 @@ func practice04() {
 
 	// Print array
 	fmt.Println(numbers) // Output: [10 20 30]
+
+	fmt.Println("line 1")
+
 }

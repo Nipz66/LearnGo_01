@@ -16,6 +16,5 @@ func practice04() {
 
 	fmt.Println("line 1")
 	fmt.Println("line 2")
-	fmt.Println("git revert code")
 
 }

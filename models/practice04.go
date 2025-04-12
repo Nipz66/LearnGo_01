@@ -18,5 +18,3 @@ func practice04() {
 	fmt.Println("line 2")
 
 }
-
-//flexing the bug
